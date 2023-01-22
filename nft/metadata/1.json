@@ -15,6 +15,14 @@
     {
       "trait_type": "Ano", 
       "value": "2023"
+    },
+    {
+      "trait_type": "Creditos videoclipe",
+      "value": "Argumento: Marina Melo; Roteiro: Laís Aranha e Marina Melo; Direção e montagem: Laís Aranha; Produção Executiva: Marina Melo; Produção: Laís Aranha e Marina Melo; Direção de Fotografia: Laís Aranha; Assistente de Câmera: Janaína Carvalho; Direção de arte: Beatriz R.A.; Produção de arte: Gui Françoso e Leo Matsuhei; Imagens adicionais: vecteezy.com; Maquiagem: Gabi Jovine e Aline Carvalho; Figurino: Naila Souza; Costureira: Conceição Dantas"
+    },
+    {
+      "trait_type": "Creditos Estátua",
+      "value": "Impressora 3D: Jeff Prestes; Local: Lilo Zone; Impressão 3D: Guilherme Françoso; Imagens digitais do processo de impressão: Guilherme Françoso e Leo Matsuhei; Modelagem: Leo Matsuhei; Pintura boneca: Marisa Aranha; Figurino boneca: Naila Souza; Costura: Naila Souza; Geração NFT: Jeff Prestes"
     }
   ]
 } 
