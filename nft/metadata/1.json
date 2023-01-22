@@ -1,0 +1,20 @@
+{
+  "description": "Estatua criada para o videoclipe Live do Fim do Mundo. Música de Marina Melo (https://open.spotify.com/artist/3yBeFa7H4pU39Mti6B7oqX?si=HtRetQSHSEykelg1E73fvg)", 
+  "external_url": "https://jeffprestes.github.io/livedofimdomundo/nft/metadata/1.json", 
+  "image": "https://jeffprestes.github.io/livedofimdomundo/nft/images/estatua-pequena.png", 
+  "name": "Estatua do videoclipe Live do Fim do Mundo",
+  "attributes": [
+    {
+      "trait_type": "Objeto", 
+      "value": "Impressão 3D com filamento plástico"
+    },
+    {
+      "trait_type": "Dimensões", 
+      "value": "15x3 cm"
+    },
+    {
+      "trait_type": "Ano", 
+      "value": "2023"
+    }
+  ]
+} 
