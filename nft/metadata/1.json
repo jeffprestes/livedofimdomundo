@@ -1,5 +1,5 @@
 {
-  "description": "Estatua criada para o videoclipe Live do Fim do Mundo. Música de Marina Melo (https://open.spotify.com/artist/3yBeFa7H4pU39Mti6B7oqX?si=HtRetQSHSEykelg1E73fvg). Creditos. Videoclipe: Argumento: Marina Melo; Roteiro: Laís Aranha e Marina Melo; Direção e montagem: Laís Aranha; Produção Executiva: Marina Melo; Produção: Laís Aranha e Marina Melo; Direção de Fotografia: Laís Aranha; Assistente de Câmera: Janaína Carvalho; Direção de arte: Beatriz R.A.; Produção de arte: Gui Françoso e Leo Matsuhei; Imagens adicionais: vecteezy.com; Maquiagem: Gabi Jovine e Aline Carvalho; Figurino: Naila Souza; Costureira: Conceição Dantas - Estatua: Local: Lilo Zone; Impressão 3D: Guilherme Françoso; Imagens digitais do processo de impressão: Guilherme Françoso e Leo Matsuhei; Modelagem: Leo Matsuhei; Pintura boneca: Marisa Aranha; Figurino boneca: Naila Souza; Costura: Naila Souza; Geração NFT: Jeff Prestes", 
+  "description": "Estatua criada para o videoclipe Live do Fim do Mundo. Música de Marina Melo (https://open.spotify.com/artist/3yBeFa7H4pU39Mti6B7oqX?si=HtRetQSHSEykelg1E73fvg). Ficha técnica videoclipe Live do Fim do Mundo - Argumento: Marina Melo; Roteiro: Laís Aranha e Marina Melo; Direção e montagem: Laís Aranha; Produção Executiva: Marina Melo; Produção: Laís Aranha e Marina Melo; Direção de Fotografia: Laís Aranha; Assistente de Câmera: Janaína Carvalho; Direção de arte: Beatriz R.A.; Produção de arte: Guilherme Françoso e Leonardo Matsuhei; Imagens adicionais: vecteezy.com; Maquiagem e cabelo: Gabi Jovine e Aline Carvalho; Figurino: Naila Souza; Costureira: Conceição Dantas | Impressão 3D - Viabilização: Jeff Prestes e Lina Lopes; Impressora 3D: Jeff Prestes; Local: Lilo Zone; Impressão 3D: Guilherme Françoso; Imagens digitais do processo de impressão: Guilherme Françoso e Leonardo Matsuhei; Modelagem: Leonardo Matsuhei; Pintura boneca: Marisa Aranha; Figurino boneca: Naila Souza; Costura: Naila Souza | Agradecimentos - Rodrigo e Marisa Aranha, Thomaz Abramo, Iago Lago, Ricardo Chiarella, Andrezza Czech | Apoio - Este projeto foi contemplado pela 5a edição do Edital de Apoio à Música para a cidade de São Paulo - Secretaria Municipal de Cultura", 
   "external_url": "https://jeffprestes.github.io/livedofimdomundo/nft/metadata/1.json", 
   "image": "https://jeffprestes.github.io/livedofimdomundo/nft/images/estatua-pequena.png", 
   "name": "Estatua do videoclipe Live do Fim do Mundo",
@@ -15,14 +15,6 @@
     {
       "trait_type": "Ano", 
       "value": "2023"
-    },
-    {
-      "trait_type": "Creditos videoclipe",
-      "value": "Argumento: Marina Melo; Roteiro: Laís Aranha e Marina Melo; Direção e montagem: Laís Aranha; Produção Executiva: Marina Melo; Produção: Laís Aranha e Marina Melo; Direção de Fotografia: Laís Aranha; Assistente de Câmera: Janaína Carvalho; Direção de arte: Beatriz R.A.; Produção de arte: Gui Françoso e Leo Matsuhei; Imagens adicionais: vecteezy.com; Maquiagem: Gabi Jovine e Aline Carvalho; Figurino: Naila Souza; Costureira: Conceição Dantas"
-    },
-    {
-      "trait_type": "Creditos Estátua",
-      "value": "Local: Lilo Zone; Impressão 3D: Guilherme Françoso; Imagens digitais do processo de impressão: Guilherme Françoso e Leo Matsuhei; Modelagem: Leo Matsuhei; Pintura boneca: Marisa Aranha; Figurino boneca: Naila Souza; Costura: Naila Souza; Geração NFT: Jeff Prestes"
     }
   ]
 } 
